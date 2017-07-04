@@ -11,3 +11,5 @@ This toolkit is very similar to arduino, but different in the following points:
 7. irRemote.h has been copied, and reformatted from arduino.
 8. iotDht class has been copied, and reformatted from arduino.
 9. The AVR board is equipped with a character LCD at ports A and G, and a Bluetooth serial. JMOD-128-BASE has such a configuration.
+10. The AVR board is controlled by textual commands which are sent from the host (PC, Smart Phone, or Smart Pad) through bluetooth or USB serial.
+11. A command line parser is prepared for each class.
