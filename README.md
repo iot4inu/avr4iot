@@ -10,3 +10,4 @@ This toolkit is very similar to arduino, but different in the following points:
 6. This is for programmers who want to learn how to write programs for iot.
 7. irRemote.h has been copied, and reformatted from arduino.
 8. iotDht class has been copied, and reformatted from arduino.
+9. The AVR board is equipped with a character LCD at ports A and G, and a Bluetooth serial. JMOD-128-BASE has such a configuration.
