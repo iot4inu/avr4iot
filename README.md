@@ -8,3 +8,5 @@ This toolkit is very similar to arduino, but different in the following points:
 4. Atmel Studio V6 is also used in the development of apps.
 5. This is not for kids who do not want to know the programming details.
 6. This is for programmers who want to learn how to write programs for iot.
+7. irRemote.h has been copied, and reformatted from arduino.
+8. iotDht class has been copied, and reformatted from arduino.
