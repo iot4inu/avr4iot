@@ -1,5 +1,5 @@
 # avr4iot
-INU AVR Object Toolkit for Internet of Things
+INU AVR Object Toolkit for Internet of Things.
 This toolkit is very similar to arduino, but different in the following points:
 1. The library is transparent, and the constituent C++ classes are subject to be modified for the app's purpose.
 2. The toolkit is dedicated to the AVR processor.
